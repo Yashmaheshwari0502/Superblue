@@ -1,0 +1,215 @@
+[
+  {
+    "id": "pvc-pipe",
+    "name": "PVC Pipe",
+    "image": "pvc-pipe.jpg",
+    "desc": "Durable PVC pipe for electrical use. Great for residential and industrial wiring.",
+    "category": "Pipes"
+  },
+  {
+    "id": "hdpe-pipe",
+    "name": "HDPE Pipe",
+    "image": "hdpe-pipe.jpg",
+    "desc": "High-density polyethylene pipe ideal for underground and heavy-duty applications.",
+    "category": "Pipes"
+  },
+  {
+    "id": "cpvc-pipe",
+    "name": "CPVC Pipe",
+    "image": "cpvc-pipe.jpg",
+    "desc": "Chlorinated PVC pipe for hot and cold water plumbing systems.",
+    "category": "Pipes"
+  },
+  {
+    "id": "ppr-pipe",
+    "name": "PPR Pipe",
+    "image": "ppr-pipe.jpg",
+    "desc": "Polypropylene random copolymer pipe, heat-resistant and durable.",
+    "category": "Pipes"
+  },
+  {
+    "id": "ms-pipe",
+    "name": "MS Pipe",
+    "image": "ms-pipe.jpg",
+    "desc": "Mild Steel pipe suitable for structural and mechanical purposes.",
+    "category": "Pipes"
+  },
+  {
+    "id": "pex-pipe",
+    "name": "PEX Pipe",
+    "image": "pex-pipe.jpg",
+    "desc": "Cross-linked polyethylene pipe for flexible plumbing installations.",
+    "category": "Pipes"
+  },
+  {
+    "id": "gi-pipe",
+    "name": "GI Pipe",
+    "image": "gi-pipe.jpg",
+    "desc": "Galvanized Iron pipe with corrosion resistance for water supply systems.",
+    "category": "Pipes"
+  },
+  {
+    "id": "abs-pipe",
+    "name": "ABS Pipe",
+    "image": "abs-pipe.jpg",
+    "desc": "Acrylonitrile Butadiene Styrene pipe for drainage and vent systems.",
+    "category": "Pipes"
+  },
+  {
+    "id": "cast-iron-pipe",
+    "name": "Cast Iron Pipe",
+    "image": "cast-iron-pipe.jpeg",
+    "desc": "Heavy-duty cast iron pipe for sewage and drainage applications.",
+    "category": "Pipes"
+  },
+  {
+    "id": "upvc-pipe",
+    "name": "uPVC Pipe",
+    "image": "upvc-pipe.jpg",
+    "desc": "Unplasticized PVC pipe for pressure applications and chemical resistance.",
+    "category": "Pipes"
+  },
+
+  {
+    "id": "elbow-joint",
+    "name": "Elbow Joint",
+    "image": "elbow-joint.jpg",
+    "desc": "90° elbow joint used to change the direction of piping.",
+    "category": "Fittings"
+  },
+  {
+    "id": "t-junction",
+    "name": "T-Junction",
+    "image": "t-junction.gif",
+    "desc": "T-shaped fitting used for dividing or connecting three pipes.",
+    "category": "Fittings"
+  },
+  {
+    "id": "coupler",
+    "name": "Coupler",
+    "image": "coupler.png",
+    "desc": "Joins two pipes together in a straight line, leak-proof design.",
+    "category": "Fittings"
+  },
+  {
+    "id": "reducer",
+    "name": "Reducer",
+    "image": "reducer.jpeg",
+    "desc": "Reduces pipe size from large to small for varied flow requirements.",
+    "category": "Fittings"
+  },
+  {
+    "id": "union-joint",
+    "name": "Union Joint",
+    "image": "union-joint.jpg",
+    "desc": "Quick disconnect pipe fitting for easy maintenance.",
+    "category": "Fittings"
+  },
+  {
+    "id": "end-cap",
+    "name": "End Cap",
+    "image": "end-cap.png",
+    "desc": "Seals the end of pipes to prevent flow and contamination.",
+    "category": "Fittings"
+  },
+  {
+    "id": "cross-joint",
+    "name": "Cross Joint",
+    "image": "cross-joint.jpg",
+    "desc": "Four-way fitting for connecting pipes in multiple directions.",
+    "category": "Fittings"
+  },
+  {
+    "id": "valve-socket",
+    "name": "Valve Socket",
+    "image": "valve-socket.jpg",
+    "desc": "Threaded socket fitting for valve connections and flow control.",
+    "category": "Fittings"
+  },
+  {
+    "id": "flange-adapter",
+    "name": "Flange Adapter",
+    "image": "flange-adapter.jpg",
+    "desc": "Connects pipes to flanged equipment with secure bolted joints.",
+    "category": "Fittings"
+  },
+  {
+    "id": "plug-fitting",
+    "name": "Plug Fitting",
+    "image": "plug-fitting.jpg",
+    "desc": "Threaded plug for temporarily or permanently sealing pipe openings.",
+    "category": "Fittings"
+  },
+
+  {
+    "id": "copper-wire",
+    "name": "Copper Wire",
+    "image": "copper-wire.jpg",
+    "desc": "High-conductivity copper wire for safe and efficient power transmission.",
+    "category": "Wires & Cables"
+  },
+  {
+    "id": "shielded-cable",
+    "name": "Shielded Cable",
+    "image": "shielded-cable.jpg",
+    "desc": "EMI-protected shielded cable for sensitive electronic applications.",
+    "category": "Wires & Cables"
+  },
+  {
+    "id": "flexible-cable",
+    "name": "Flexible Cable",
+    "image": "flexible-cable.jpg",
+    "desc": "Flexible, insulated power cable for dynamic industrial uses.",
+    "category": "Wires & Cables"
+  },
+  {
+    "id": "coaxial-cable",
+    "name": "Coaxial Cable",
+    "image": "coaxial-cable.jpg",
+    "desc": "Used in TV and data transmission with minimal signal loss.",
+    "category": "Wires & Cables"
+  },
+  {
+    "id": "aluminium-wire",
+    "name": "Aluminium Wire",
+    "image": "aluminium-wire.jpeg",
+    "desc": "Lightweight alternative to copper for general electrical wiring.",
+    "category": "Wires & Cables"
+  },
+  {
+    "id": "fiber-optic-cable",
+    "name": "Fiber Optic Cable",
+    "image": "fiber-optic-cable.jpg",
+    "desc": "High-speed data transmission cable using light signals for communication.",
+    "category": "Wires & Cables"
+  },
+  {
+    "id": "armored-cable",
+    "name": "Armored Cable",
+    "image": "armored-cable.jpg",
+    "desc": "Metal-clad cable providing mechanical protection in harsh environments.",
+    "category": "Wires & Cables"
+  },
+  {
+    "id": "cat6-ethernet",
+    "name": "Cat6 Ethernet Cable",
+    "image": "cat6-ethernet.jpeg",
+    "desc": "High-performance network cable for gigabit internet and data transfer.",
+    "category": "Wires & Cables"
+  },
+  {
+    "id": "speaker-wire",
+    "name": "Speaker Wire",
+    "image": "speaker-wire.jpg",
+    "desc": "Oxygen-free copper wire designed for high-quality audio transmission.",
+    "category": "Wires & Cables"
+  },
+  {
+    "id": "thermostat-wire",
+    "name": "Thermostat Wire",
+    "image": "thermostat-wire.png",
+    "desc": "Multi-conductor wire for HVAC control and thermostat connections.",
+    "category": "Wires & Cables"
+  }
+]
+    
