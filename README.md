@@ -2,4 +2,4 @@
 
 
 
-[SuperBlue Industries](https:superblue.co.in)
+[SuperBlue Industries](https://superblue.co.in/)
