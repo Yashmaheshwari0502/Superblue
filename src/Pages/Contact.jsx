@@ -1,4 +1,5 @@
 import React, { useState, useEffect } from 'react';
+import SEO from '../components/SEO';
 
 export default function Contact() {
   const [formData, setFormData] = useState({
@@ -33,9 +34,7 @@ export default function Contact() {
     // Add more words as needed
   ];
 
-  useEffect(() => {
-    document.title = 'SuperBlue - Contact';
-  }, []);
+
 
   // Function to filter out forbidden words
   const filterMessage = (text) => {
@@ -102,6 +101,10 @@ export default function Contact() {
 
   return (
     <div className="min-h-screen bg-white px-4 py-12">
+      <SEO 
+        title="Contact SuperBlue | Buy Electrical Pipe & Wire" 
+        description="Contact Superblue Industries today. Get a quote or download our price list for premium electrical pipes and wiring accessories." 
+      />
       <div className="max-w-3xl mx-auto">
         <h1 className="text-4xl font-bold text-center text-blue-800 mb-2">
           Contact Us
